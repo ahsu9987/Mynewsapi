@@ -1,0 +1,2 @@
+# Mynewsapi
+reactjs/reactbootstrap/responsive
